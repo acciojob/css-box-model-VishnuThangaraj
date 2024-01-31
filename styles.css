@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.container{
+	display:inline-block;
+	margin:20px;
+	background-color:lightblue;
+	border:15px solid blue;
+}
+.text_box{
+	width:300px;
+	padding:50px;
+}
